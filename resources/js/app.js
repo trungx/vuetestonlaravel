@@ -15,7 +15,7 @@ window.Vue = require('vue');
  *
  * Eg. ./components/ExampleComponent.vue -> <example-component></example-component>
  */
-Vue.component('vue-component', require('./components/BindingHTML.vue'));
+Vue.component('vue-component', require('./components/EventHandling.vue'));
 // Vue.component('user-dashboard', require('./components/UserDashboard.vue'));
 // Vue.component('example-component', require('./components/ExampleComponent.vue'));
 
